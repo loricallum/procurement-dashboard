@@ -1,11 +1,3 @@
-// import './single.scss';
-
-// export const Single = () => {
-//   return (
-//     <div>Single</div>
-//   )
-// }
-
 import "./single.scss";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";

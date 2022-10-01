@@ -1,11 +1,3 @@
-
-// import './list.scss';
-// export const List = () => {
-//   return (
-//     <div>List</div>
-//   )
-// }
-
 import "./list.scss"
 import Sidebar from "../../components/sidebar/Sidebar"
 import Navbar from "../../components/navbar/Navbar"
